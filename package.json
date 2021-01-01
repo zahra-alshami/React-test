@@ -1,0 +1,22 @@
+{
+  "name": "react-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zahra-alshami/React-test.git"
+  },
+  "author": "Zahra Alshami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zahra-alshami/React-test/issues"
+  },
+  "homepage": "https://github.com/zahra-alshami/React-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
